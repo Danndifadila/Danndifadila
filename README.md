@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Description
-Hi! I'm Danndi, I am a Junior Front-End Developer from Indonesia. I'm currently working on my portfolio website and I would like to connect with you.
+Danndies Here!, I am a Junior Front-End Developer from Indonesia. I'm currently working on my portfolio website and I would like to connect with you.
 
 ## Stack Skill
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Danndifadila&layout=compact&theme=synthwave)
